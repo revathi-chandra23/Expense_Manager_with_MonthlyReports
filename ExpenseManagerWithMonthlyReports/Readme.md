@@ -5,39 +5,71 @@ This project reads expense records from CSV files, categorizes expenses, and gen
 
 ## Core Technologies
 Java 21
+
 Maven
+
 CSV File Handling
+
 Java Collections Framework
+
 Java Stream API
+
 Exception Handling
+
 File I/O
+
 Development Tools
+
 Visual Studio Code
+
 IntelliJ IDEA
+
 Git
-GitHub
-Java Concepts Used
-Object-Oriented Programming (OOP)
+
+GitHuUsed
+
+Object-Orienteb Programming (OOP)
+
 Interfaces and Implementations
+
 Encapsulation
+
 Exception Handling
+
 File Processing
+
 Properties File Configuration
+
 LocalDate / YearMonth API
+
 Collections (List, Map)
+
 Stream Operations
+
 Lambda Expressions
+
 
 ## Features
 Read expense data from CSV files
+
 Generate monthly expense reports
+
 Category-wise expense analysis
+
+
 Calculate:
+
 Total monthly expense
+
 Average daily expense
+
 Highest expense
+
 Lowest expense
+
 External configuration using application.properties
+
+
 Clean layered architecture
 
 ## Project Structure
