@@ -28,7 +28,7 @@ Git
 
 GitHub Used
 
-Object-Orienteb Programming (OOP)
+Object-Oriented Programming (OOP)
 
 Interfaces and Implementations
 
