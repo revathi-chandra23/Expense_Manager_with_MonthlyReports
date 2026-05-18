@@ -26,7 +26,7 @@ IntelliJ IDEA
 
 Git
 
-GitHuUsed
+GitHub Used
 
 Object-Orienteb Programming (OOP)
 
@@ -58,6 +58,7 @@ Category-wise expense analysis
 
 
 Calculate:
+---------------
 
 Total monthly expense
 
