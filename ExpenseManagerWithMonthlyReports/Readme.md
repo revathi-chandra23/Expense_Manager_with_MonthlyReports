@@ -42,16 +42,27 @@ Clean layered architecture
 
 ## Project Structure
 src/
-├── main/
+├
+── main/
+
 │   ├── java/
+
 │   │   └── org/java/expenseManager/
+
 │   │       ├── model/
+
 │   │       ├── service/
+
 │   │       ├── exception/
+
 │   │       └── ExpenseManagerApp.java
+
 │   └── resources/
+
 │       ├── expenses.csv
+
 │       └── application.properties
+
 
 
 ## Sample CSV Format
